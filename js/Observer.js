@@ -43,11 +43,6 @@
 
 // }
 
-// var data ={name:'nico',list:{a:1,b:2}}
-// observer(data)
-
-// data.name='呵呵'
-// data.list.a='a123'
 
 class Dep {
   constructor() {
